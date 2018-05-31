@@ -136,7 +136,7 @@ open class ESRefreshComponent: UIView {
         self.stop()
     }
     
-    public func start() {
+    @objc public func start() {
         
     }
     
